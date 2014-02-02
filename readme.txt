@@ -1,5 +1,5 @@
 === DL IMGBanner Widget===
-Contributors: dyadyalesha
+Contributors: dyadyalesha, versusbassz
 Plugin URI: http://vcad.dd-l.name/wp-plugins/
 Tags: dl, banner, images, widget
 Requires at least: 3.2
