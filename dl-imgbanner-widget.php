@@ -4,7 +4,7 @@
 	Description: Удобный и простой способ добавить баннер на Ваш сайт
 	Plugin URI: http://vcard.dd-l.name/wp-plugins/
 	Tags: dl, widget, banner, images
-	Version: 1.0
+	Version: 1.1
 	Author: Dyadya Lesha (info@dd-l.name)
 	Author URI: http://dd-l.name
 	*/
