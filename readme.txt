@@ -4,7 +4,7 @@ Plugin URI: http://vcad.dd-l.name/wp-plugins/
 Tags: dl, banner, images, widget
 Requires at least: 3.2
 Tested up to: 3.8
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 Удобный и простой способ добавить баннер на Ваш сайт
 
@@ -30,6 +30,9 @@ Stable tag: 1.1
 1. Настройки виджета
 
 == Changelog ==
+
+= 1.1.1 =
+* Исправлены небольшие ошибки 
 
 = 1.1 =
 * Исправлены небольшие ошибки 

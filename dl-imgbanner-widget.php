@@ -4,7 +4,7 @@
 	Description: Удобный и простой способ добавить баннер на Ваш сайт
 	Plugin URI: http://vcard.dd-l.name/wp-plugins/
 	Tags: dl, widget, banner, images
-	Version: 1.1
+	Version: 1.1.1
 	Author: Dyadya Lesha (info@dd-l.name)
 	Author URI: http://dd-l.name
 	*/
@@ -52,7 +52,7 @@
 		$img_tag = "<img class=\"custom_media_image\" src=\"$preview_image_src\" style=\"width:100%; display:inline-block\" />";
  
 		if ( $url_img ) {
-			$img_tag = "<a href=\"$url_img\" $url_img_new_win >$img_tag<?</a>";
+			$img_tag = "<a href=\"$url_img\" $url_img_new_win >$img_tag</a>";
 		}
  
 		echo $img_tag;
